@@ -7,9 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<span style="color:#007acc; font-size:20px;">Welcome to my personal website! Stay awhile and take a look around.</span>  
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<p>I'm Zeqian Long (Richard), an undergraduate student studying Mathematics and Computer Science at UIUC. I'm open to exploring any research direction in AI and always excited to collaborate — feel free to reach out!</p>
+
+<p>My research focuses on Generative AI, particularly image and video synthesis. I aim to make generation more controllable and safer, advancing AI-driven content creation through innovative modeling and adversarial defense methods.
+
+I also work on knowledge mining and reasoning with Large Language Models, focusing on building dynamic and interpretable knowledge graphs to enhance factual consistency, continual learning, and cultural alignment in AI systems.</p>
+
+<p>I've completed my internship at the <a href="https://www.baai.ac.cn/en/" target="_blank">BAAI (Beijing Academy of Artificial Intelligence)</a> Large Vision Model group, where I was fortunate to engage with cutting-edge research in visual foundation models and multimodal learning.</p>
+
+<p>Stay tuned for updates!</p>
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 A data-driven personal website
 ======
