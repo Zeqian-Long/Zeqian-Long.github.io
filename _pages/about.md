@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="color:#007acc; font-size:20px;">Welcome to my personal website! Stay awhile and take a look around.</span>  
 
-I'm Zeqian Long (Richard), an undergraduate student studying Mathematics and Computer Science at UIUC. I'm open to exploring any research direction in AI and always excited to collaborate — feel free to reach out!
+I'm a 4th year undergraduate student studying Mathematics and Computer Science at UIUC. I'm open to exploring any research direction in AI and always excited to collaborate — feel free to reach out!
 
 My research focuses on Generative AI, particularly image and video synthesis. I aim to make generation more controllable and safer, advancing AI-driven content creation through innovative modeling and adversarial defense methods.
 
