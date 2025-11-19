@@ -13,7 +13,7 @@ I'm a 4th year undergraduate student studying Mathematics and Computer Science a
 
 My research focuses on Generative AI, particularly image and video synthesis. I aim to make generation more controllable and safer, advancing AI-driven content creation through innovative modeling and adversarial defense methods.
 
-I also work on knowledge mining and reasoning with Large Language Models, focusing on building dynamic and interpretable knowledge graphs to enhance factual consistency, continual learning, and cultural alignment in AI systems.
+I also work on knowledge mining and reasoning with Large Language Models, focusing on building dynamic and interpretable knowledge graphs to enhance factual consistency and cultural alignment in AI systems.
 
 I've completed my internship at the <a href="https://www.baai.ac.cn/en/" target="_blank">BAAI (Beijing Academy of Artificial Intelligence)</a> Large Vision Model group, where I was fortunate to engage with cutting-edge research in visual foundation models and multimodal learning.
 
