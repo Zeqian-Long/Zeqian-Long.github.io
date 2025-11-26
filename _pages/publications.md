@@ -30,7 +30,7 @@ Below are some of my works tagged by theme.
   </div>
 </div>
 
-<div class="research-entry">
+<!-- <div class="research-entry">
   <div class="research-entry__image">
     <img src="/images/research/deveval.png" alt="DevEval">
   </div>
@@ -171,4 +171,4 @@ Below are some of my works tagged by theme.
     <strong style="color: #00008B;">Knowledge-Based Systems</strong> | <a href="https://doi.org/10.1016/j.knosys.2022.109373">DOI</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">Proposed multi-criteria decision making (MCDM) frameworks for transportation and environmental policy analysis, providing road-safety policymaking support for APEC countries.</p>
   </div>
-</div>
+</div> -->
