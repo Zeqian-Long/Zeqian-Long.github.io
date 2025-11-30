@@ -15,9 +15,9 @@ Below are some of my works tagged by theme.
 ---
 
 <div class="research-entry">
-  <div class="research-entry__image">
-    <img src="/images/research/shape.jpg" alt="Terminal-Bench">
-  </div>
+  <img src="/images/research/shape.jpg" 
+    alt="Terminal-Bench"
+    style="width:160px; height:auto; border-radius:8px;">
   <div class="research-entry__content">
     <strong>Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces</strong><br>
     <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Evaluation</span>
