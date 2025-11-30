@@ -29,7 +29,7 @@ Below are some of my works tagged by theme.
 
 <div class="research-entry">
   <div class="research-entry__image">
-    <img src="/images/research/shape.jpg" alt="">
+    <img src="/images/research/eshape.jpg" alt="">
   </div>
   <div class="research-entry__content">
     <strong>Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces</strong><br>
