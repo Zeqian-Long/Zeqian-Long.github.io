@@ -21,7 +21,7 @@ Below are some of my works tagged by theme.
   gap: 20px;   /* 图片与右边文字的距离 */
 }
 .research-entry__image img {
-  width: 2500px;      /* 你想要的宽度 */
+  width: 3000px;      /* 你想要的宽度 */
   height: auto;
   border-radius: 4px;
 }
@@ -39,7 +39,7 @@ Below are some of my works tagged by theme.
     <span style="color: #8B0000;"><em>Stanford University & Laude Institute</em></span><br>
     <em>Mike Merrill*, Alex Shaw*, Nicholas Carlini**, Boxuan Li**, Harsh Raj**, Ivan Bercovich**, <strong>Lin Shi**</strong>, et al.</em><br>
     <strong style="color: #00008B;">Terminal Bench 1.5 under review; Adapters paper planning for submission to ICML 2026 </strong><br>
-    <p style="margin-top: 10px; color: #555; margin-bottom: 0;">I am a <strong>core contributor</strong> in Terminal Bench and <a href="https://harborframework.com/docs">Harbor</a>. I lead the <a href="https://harborframework.com/docs/adapters">Registry and Adapter Team</a> to adapt other benchmarks into Terminal-Bench / Harbor format that aim to make agent evaluation uniform, convenient, and easy. I managed 50+ benchmark adapters covering 5000+ tasks by coordinating 100+ contributors and directed adapter standardization, benchmark screening, and code quality control. <strong>We are still recruiting open-source community contributors to get more adapters onboard - feel free to reach out!</strong></p>
+    <!-- <p style="margin-top: 10px; color: #555; margin-bottom: 0;">I am a <strong>core contributor</strong> in Terminal Bench and <a href="https://harborframework.com/docs">Harbor</a>. I lead the <a href="https://harborframework.com/docs/adapters">Registry and Adapter Team</a> to adapt other benchmarks into Terminal-Bench / Harbor format that aim to make agent evaluation uniform, convenient, and easy. I managed 50+ benchmark adapters covering 5000+ tasks by coordinating 100+ contributors and directed adapter standardization, benchmark screening, and code quality control. <strong>We are still recruiting open-source community contributors to get more adapters onboard - feel free to reach out!</strong></p> -->
   </div>
 </div>
 
