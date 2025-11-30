@@ -17,11 +17,11 @@ Below are some of my works tagged by theme.
 <style>
 .research-entry {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 20px;   /* 图片与右边文字的距离 */
 }
 .research-entry__image img {
-  width: 1000px;      /* 你想要的宽度 */
+  width: 2500px;      /* 你想要的宽度 */
   height: auto;
   border-radius: 4px;
 }
