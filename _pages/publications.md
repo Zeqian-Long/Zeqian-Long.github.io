@@ -32,13 +32,15 @@ Below are some of my works tagged by theme.
     <img src="/images/research/eshape.jpg" alt="">
   </div>
   <div class="research-entry__content">
-    <strong>Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces</strong><br>
-    <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Evaluation</span>
-    <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 4px; border: 1px solid #E65100; font-size: 0.85em; margin-right: 5px;">Agent</span>
-    <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 4px; border: 1px solid #7B1FA2; font-size: 0.85em;">Dataset Benchmark</span><br>
-    <span style="color: #8B0000;"><em>Stanford University & Laude Institute</em></span><br>
-    <em>Mike Merrill*, Alex Shaw*, Nicholas Carlini**, Boxuan Li**, Harsh Raj**, Ivan Bercovich**, <strong>Lin Shi**</strong>, et al.</em><br>
-    <strong style="color: #00008B;">Terminal Bench 1.5 under review; Adapters paper planning for submission to ICML 2026 </strong><br>
+    <strong>Follow-Your-Shape / EditAnyShape: Shape-Aware Image Editing via Trajectory-Guided Region Control</strong><br>
+    <!-- 
+    <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 4px; border: 1px solid #E65100; font-size: 0.85em; margin-right: 5px;">Agent</span> -->
+    <!-- <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Evaluation</span> -->
+    <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 4px; border: 1px solid #7B1FA2; font-size: 0.85em;">Controllable Generation</span>
+    <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Image Editing</span><br>
+    <span style="color: #8B0000;"><em>HKUST & UIUC & SJTU</em></span><br>
+    <em><strong>Zeqian Long*</strong>, Mingzhe Zheng*, Kunyu Feng*, Xinhua Zhang, Hongyu Liu, Harry Yang, Linfeng Zhang, Qifeng Chen, Yue Ma.</em><br>
+    <strong style="color: #00008B;">Preprint, under review </strong><br>
     <!-- <p style="margin-top: 10px; color: #555; margin-bottom: 0;">I am a <strong>core contributor</strong> in Terminal Bench and <a href="https://harborframework.com/docs">Harbor</a>. I lead the <a href="https://harborframework.com/docs/adapters">Registry and Adapter Team</a> to adapt other benchmarks into Terminal-Bench / Harbor format that aim to make agent evaluation uniform, convenient, and easy. I managed 50+ benchmark adapters covering 5000+ tasks by coordinating 100+ contributors and directed adapter standardization, benchmark screening, and code quality control. <strong>We are still recruiting open-source community contributors to get more adapters onboard - feel free to reach out!</strong></p> -->
   </div>
 </div>
