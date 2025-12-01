@@ -21,7 +21,7 @@ Below are some of my works tagged by theme.
   gap: 20px;   
 }
 .research-entry__image img {
-  width: 500px;      
+  width: 550px;      
   height: auto;
   border-radius: 4px;
 }
@@ -29,7 +29,7 @@ Below are some of my works tagged by theme.
 
 <div class="research-entry">
   <div class="research-entry__image">
-    <img src="/images/research/eshape.jpg" alt="">
+    <img src="/images/research/shape.jpg" alt="">
   </div>
   <div class="research-entry__content">
     <strong>Follow-Your-Shape / EditAnyShape: Shape-Aware Image Editing via Trajectory-Guided Region Control</strong><br>
@@ -40,8 +40,8 @@ Below are some of my works tagged by theme.
     <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Image Editing</span><br>
     <span style="color: #8B0000;"><em>HKUST & UIUC & SJTU</em></span><br>
     <em><strong>Zeqian Long*</strong>, Mingzhe Zheng*, Kunyu Feng*, Xinhua Zhang, Hongyu Liu, Harry Yang, Linfeng Zhang, Qifeng Chen, Yue Ma.</em><br>
-    <strong style="color: #00008B;">Preprint, under review </strong><br>
-    <!-- <p style="margin-top: 10px; color: #555; margin-bottom: 0;">I am a <strong>core contributor</strong> in Terminal Bench and <a href="https://harborframework.com/docs">Harbor</a>. I lead the <a href="https://harborframework.com/docs/adapters">Registry and Adapter Team</a> to adapt other benchmarks into Terminal-Bench / Harbor format that aim to make agent evaluation uniform, convenient, and easy. I managed 50+ benchmark adapters covering 5000+ tasks by coordinating 100+ contributors and directed adapter standardization, benchmark screening, and code quality control. <strong>We are still recruiting open-source community contributors to get more adapters onboard - feel free to reach out!</strong></p> -->
+    <strong style="color: #00008B;">Preprint, under review </strong> | <a href="https://arxiv.org/abs/2508.08134">arXiv</a> | <a href="https://github.com/mayuelala/FollowYourShape">Github</a> <br>
+    <p style="margin-top: 10px; color: #555; margin-bottom: 0;">A training-free, mask-free image editing framework that can be applied to any flow-based generative models, enabling large-scale, precise, and flexible shape editing.</p>
   </div>
 </div>
 
