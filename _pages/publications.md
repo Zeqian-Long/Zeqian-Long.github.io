@@ -18,10 +18,10 @@ Below are some of my works tagged by theme.
 .research-entry {
   display: flex;
   align-items: center;
-  gap: 20px;   /* 图片与右边文字的距离 */
+  gap: 20px;   
 }
 .research-entry__image img {
-  width: 3000px;      /* 你想要的宽度 */
+  width: 1500px;      
   height: auto;
   border-radius: 4px;
 }
