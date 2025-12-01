@@ -21,7 +21,7 @@ Below are some of my works tagged by theme.
   gap: 20px;   
 }
 .research-entry__image img {
-  width: 1500px;      
+  width: 700px;      
   height: auto;
   border-radius: 4px;
 }
