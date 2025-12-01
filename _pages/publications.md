@@ -23,7 +23,7 @@ I work on controllable visual synthesis, robustness evaluation, and structured k
   gap: 20px;   
 }
 .research-entry__image img {
-  width: 700px;      
+  width: 900px;      
   height: auto;
   border-radius: 4px;
 }
