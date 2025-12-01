@@ -6,11 +6,13 @@ author_profile: true
 classes: wide
 ---
 
-I have explored diverse research domains and topics throughout my academic journey: evaluation, dataset benchmarks, AI4SE (AI for software engineering), AI4Edu (AI for Education), agents, mechanistic interpretability, transportation...
+<!-- I have explored diverse research domains and topics throughout my academic journey: evaluation, dataset benchmarks, AI4SE (AI for software engineering), AI4Edu (AI for Education), agents, mechanistic interpretability, transportation...
 
-Below are some of my works tagged by theme. 
+Below are some of my works tagged by theme.  -->
 
-**(\* equal contribution; \*\* core member and sub-team lead)**
+I work on controllable visual synthesis, robustness evaluation, and structured knowledge integration—capable of modeling the world's structure and dynamics in precise, trustworthy, and grounded ways.
+
+**(\* equal contribution)**
 
 ---
 
