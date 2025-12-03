@@ -5,20 +5,26 @@ permalink: /misc/
 author_profile: true
 ---
 
-## Academic Resources
+
+## 📚 Study Resources
+
+I maintained a 4.0 GPA throughout my undergraduate studies. Here are some resources I created that might be helpful:
 
 ### Cheat Sheets
-Here are some comprehensive cheat sheets I created while maintaining a 4.0 GPA:
 
-- **[Course Name] Cheat Sheet** - [Download PDF](/files/CheatSheet.pdf)
-  - Description of what's covered
-  
-<!-- - **[Another Course] Cheat Sheet** - [Download PDF](/files/cheatsheet-course2.pdf)
-  - Description of what's covered -->
+**Computer Science**
+- [CS 225: Data Structures](/files/CheatSheet.pdf) - Comprehensive reference covering trees, graphs, sorting algorithms
+- [CS 374: Algorithms](/files/cs374-cheatsheet.pdf) - Dynamic programming, graph algorithms, complexity theory
 
-### Study Guides
+**Mathematics**
+- [Linear Algebra](/files/math-linear-algebra.pdf) - Matrix operations, eigenvalues, vector spaces
 
-### Fun Projects
+## 🎨 Fun Projects
 
-### Random Stuff
-Other interesting things I've worked on...
+Random things I built for fun or learning:
+
+- **Project Name** - Brief description [Link]
+
+## 🎮 Hobbies & Interests
+
+Other stuff about me...
