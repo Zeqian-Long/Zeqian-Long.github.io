@@ -24,11 +24,11 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
-$times                      : Times, serif;
+// $times                      : Times, serif;
+$times                      : "Computer Modern Serif", "CMU Serif", Georgia, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
-$computer-modern            : "Computer Modern Serif", "CMU Serif", Georgia, serif;
 
 /* Type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -40,13 +40,9 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-// $global-font-family         : $times;
-// $header-font-family         : $times;
-// $caption-font-family        : $times;
-
-$global-font-family         : $computer-modern;  // 改成 Computer Modern
-$header-font-family         : $computer-modern;
-$caption-font-family        : $computer-modern;
+$global-font-family         : $times;
+$header-font-family         : $times;
+$caption-font-family        : $times;
 
 /* ==========================================================================
    Breakpoints
