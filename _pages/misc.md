@@ -8,20 +8,18 @@ author_profile: true
 
 ## 📚 Course Study
 
-I maintained a 4.0 GPA throughout my undergraduate studies. 
+I maintained a 4.0 GPA throughout my undergraduate studies. These are some of the courses I found most engaging, challenging, or memorable.
 
 
-<!-- Here are some resources I created that might be helpful: -->
 
-<!-- ### Cheat Sheets -->
+- **[Text Mining with LLMs - Comprehensive Cheat Sheet](/files/CheatSheet.pdf)** - An extensive reference guide covering core concepts and representative research in LLM-based retrieval, structuring, and reasoning. Thanks to Prof. Jiawei Han for an excellent course.
 
-<!-- **Computer Science** -->
-- **[Text Mining with LLMs - Comprehensive Cheat Sheet](/files/CheatSheet.pdf)** - An extensive reference guide covering core concepts and research papers in LLM retrieval, structuring, and reasoning. Thanks to Prof. Jiawei Han for an excellent course.
+- **[Advanced Algorithms](https://courses.grainger.illinois.edu/cs473/fa2024/)** - Probably the toughest course I have taken as an undergraduate. Taught by Prof. Jeff Erickson, whose excellent textbook is available on [his website](https://jeffe.cs.illinois.edu/teaching/algorithms/).
 
-<!-- - [CS 374: Algorithms](/files/cs374-cheatsheet.pdf) - Dynamic programming, graph algorithms, complexity theory
+- **[Machine Learning](https://courses.grainger.illinois.edu/cs446/sp2024/index.html)** – A rigorous introduction to modern ML; challenging and highly rewarding.
 
-**Mathematics**
-- [Linear Algebra](/files/math-linear-algebra.pdf) - Matrix operations, eigenvalues, vector spaces -->
+
+
 
 <!-- ## 🎨 Fun Projects
 

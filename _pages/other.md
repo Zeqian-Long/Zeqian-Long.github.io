@@ -5,7 +5,7 @@ permalink: /other/
 author_profile: true
 ---
 
-## 🎮 Hobbies & Interests
+<!-- ## 🎮 Hobbies & Interests
 
 ### Gaming
 - Favorite games...
@@ -18,8 +18,8 @@ author_profile: true
 
 ## 📖 Books I'm Reading
 
-## 🍳 Cooking Adventures
+## 🍳 Cooking Adventures -->
 
 ## 💭 Random Thoughts
 
-Whatever else you want to share...
+Will be updated soon...
