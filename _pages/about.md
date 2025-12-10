@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:#007acc; font-size:20px;">Welcome to my personal website! Stay awhile and take a look around.</span>  
+<span style="color:#007acc; font-size:20px;">👋 Welcome to my personal website! Stay awhile and take a look around.</span>  
 
 I'm a 4th year undergraduate student studying Mathematics and Computer Science at UIUC. 
 
