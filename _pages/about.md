@@ -20,7 +20,7 @@ My research focuses on **generative AI**, specifically:
 
 <!-- I am also deeply interested in 3D/4D generative vision, focusing on dynamic scene reconstruction and representation learning. I aim to develop geometry-aware world models capable of synthesizing physically grounded, temporally coherent 3D environments. -->
 
-I also work on knowledge mining and reasoning with Large Language Models at ULab@UIUC, where I am fortunate to be advised by <a href="https://cs.stanford.edu/people/jiaxuan/" target="_blank">Prof. Jiaxuan You</a>. My work focuses on building dynamic and interpretable knowledge graphs over scientific literature to support structure-aware retrieval, concept-level reasoning, and knowledge organization.
+I also work on knowledge mining and LLM reasoning at ULab@UIUC, where I am fortunate to be advised by <a href="https://cs.stanford.edu/people/jiaxuan/" target="_blank">Prof. Jiaxuan You</a>. My work focuses on building dynamic and interpretable knowledge graphs over scientific literature to support structure-aware retrieval, concept-level reasoning, and knowledge organization.
 
 I've completed my internship at the <a href="https://www.baai.ac.cn/en/" target="_blank">BAAI (Beijing Academy of Artificial Intelligence)</a> Vision and Multimodal Research Center, where I had the opportunity to engage with cutting-edge research in visual foundation models and multimodal learning.
 
