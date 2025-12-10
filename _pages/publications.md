@@ -10,7 +10,7 @@ classes: wide
 
 Below are some of my works tagged by theme.  -->
 
-I work on controllable visual synthesis, robustness evaluation, and structured knowledge integration—capable of modeling the world's structure and dynamics in precise, trustworthy, and grounded ways.
+<!-- I work on controllable visual synthesis, robustness evaluation, and structured knowledge integration—capable of modeling the world's structure and dynamics in precise, trustworthy, and grounded ways. -->
 
 For a more comprehensive view of my research interests and explorations, please visit my [Academic Paper & Note Archive](https://www.notion.so/Academic-Paper-Note-Archive-2a729f48cddb80048ca5dfd4c7f43daf?source=copy_link)—a regularly updated collection of papers I've studied and research notes.
 
