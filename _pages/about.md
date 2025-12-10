@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="color:#007acc; font-size:20px;">👋 Welcome to my personal website! Stay awhile and take a look around.</span>  
 
-I'm a 4th year undergraduate student studying Mathematics and Computer Science at UIUC. 
+I am a fourth-year year undergraduate student studying Mathematics and Computer Science at UIUC, expected to graduate in May 2026.
 
 My research focuses on Generative AI, particularly image and video synthesis. I aim to make generation more controllable and safer, advancing AI-driven content creation through innovative modeling and adversarial defense methods.
 
