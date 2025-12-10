@@ -22,4 +22,4 @@ author_profile: true
 
 ## 💭 Random Thoughts
 
-Will be updated soon...
+More updates coming soon.
