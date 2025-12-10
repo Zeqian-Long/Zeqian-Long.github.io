@@ -9,15 +9,20 @@ redirect_from:
 
 <span style="color:#007acc; font-size:20px;">👋 Welcome to my personal website! Stay awhile and take a look around.</span>  
 
-I am a fourth-year year undergraduate student studying Mathematics and Computer Science at UIUC, expected to graduate in May 2026.
+I am a fourth-year year undergraduate student studying Mathematics and Computer Science at **University of Illinois Urbana-Champaign**, expected to graduate in May 2026.
 
-My research focuses on Generative AI, particularly image and video synthesis. I aim to make generation more controllable and safer, advancing AI-driven content creation through innovative modeling and adversarial defense methods.
+My research focuses on **generative AI**, specifically:
 
-I am also deeply interested in 3D/4D generative vision, focusing on dynamic scene reconstruction and representation learning. I aim to develop geometry-aware world models capable of synthesizing physically grounded, temporally coherent 3D environments.
+- 2D and 3D visual generation and editing, with an emphasis on structured scene understanding and geometry-aware representations.
+- Robust and reliable generative systems, including analyzing and improving model behavior under uncertainty, distribution shift, and adversarial perturbations.
+- World models that internalize object and relational structure, enabling intentional, controllable, and physically grounded generation.
 
-I also work on knowledge mining and reasoning with Large Language Models with Professor Jiaxuan You, focusing on building dynamic and interpretable knowledge graphs to enhance factual consistency and structured reasoning in AI systems.
 
-I've completed my internship at the <a href="https://www.baai.ac.cn/en/" target="_blank">BAAI (Beijing Academy of Artificial Intelligence)</a> Vision and Multimodal Research Center, where I was fortunate to engage with cutting-edge research in visual foundation models and multimodal learning.
+<!-- I am also deeply interested in 3D/4D generative vision, focusing on dynamic scene reconstruction and representation learning. I aim to develop geometry-aware world models capable of synthesizing physically grounded, temporally coherent 3D environments. -->
+
+I also work on knowledge mining and reasoning with Large Language Models at ULab@UIUC, where I am fortunate to be advised by <a href="https://cs.stanford.edu/people/jiaxuan/" target="_blank">Prof. Jiaxuan You</a>. My work focuses on building dynamic and interpretable knowledge graphs over scientific literature to support structure-aware retrieval, concept-level reasoning, and knowledge organization.
+
+I've completed my internship at the <a href="https://www.baai.ac.cn/en/" target="_blank">BAAI (Beijing Academy of Artificial Intelligence)</a> Vision and Multimodal Research Center, where I had the opportunity to engage with cutting-edge research in visual foundation models and multimodal learning.
 
 I'm open to exploring any research direction in AI and always excited to collaborate — feel free to reach out!
 
