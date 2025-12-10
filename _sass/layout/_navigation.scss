@@ -365,7 +365,8 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  // font-family: $sans-serif-narrow;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -374,7 +375,8 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
+  // font-family: $sans-serif-narrow;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
@@ -387,7 +389,8 @@
    ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  // font-family: $sans-serif-narrow;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
   color: var(--global-text-color-light);
   text-transform: uppercase;
   letter-spacing: 1px;
