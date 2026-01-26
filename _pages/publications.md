@@ -45,8 +45,8 @@ For a more comprehensive view of my research interests and explorations, please 
     <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Image Editing</span><br>
     <span style="color: #8B0000;"><em>HKUST & UIUC & SJTU</em></span><br>
     <em><strong>Zeqian Long*</strong>, Mingzhe Zheng*, Kunyu Feng*, Xinhua Zhang, Hongyu Liu, Harry Yang, Linfeng Zhang, Qifeng Chen, Yue Ma</em><br>
-    <strong style="color: #00008B;">Preprint, under review </strong> | <a href="https://arxiv.org/abs/2508.08134">arXiv</a> | <a href="https://github.com/mayuelala/FollowYourShape">Github</a> <br>
-    <p style="margin-top: 10px; color: #555; margin-bottom: 0;">A training-free, mask-free image editing framework that can be applied to any flow-based generative models, enabling large-scale, precise, and flexible shape editing.</p>
+    <strong style="color: #00008B;">The Fourteenth International Conference on Learning Representations (ICLR), 2026 </strong> | <a href="https://arxiv.org/abs/2508.08134">arXiv</a> | <a href="https://github.com/mayuelala/FollowYourShape">Github</a> <br>
+    <p style="margin-top: 10px; color: #555; margin-bottom: 0;">A training-free, mask-free image editing framework that can be applied to flow-based image generative models, enabling large-scale, precise, and flexible shape editing.</p>
   </div>
 </div>
 
