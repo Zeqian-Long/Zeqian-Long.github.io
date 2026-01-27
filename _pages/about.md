@@ -28,7 +28,7 @@ I'm open to exploring any research direction in AI and always excited to collabo
 
 ## 📰 News
 
-- **Jan 2026** — My first research paper, **EditAnyShape**, was accepted to **ICLR 2026**!.
+- **Jan 2026** — 📄 My first paper, **Follow-Your-Shape (EditAnyShape)**, was accepted to **ICLR 2026**!.
 
 <!-- Stay tuned for updates! -->
 
