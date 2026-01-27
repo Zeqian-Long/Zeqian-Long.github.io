@@ -13,7 +13,8 @@
   margin-bottom: 0;
   padding-left: 2em;
   padding-right: 2em;
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  font-family: $global-font-family;
   // font-family: "Times New Roman", Times, serif;
   // font-family: "CMU Serif Roman", "CMU Serif", "Computer Modern", serif;
   -webkit-animation: intro 0.3s both;
@@ -68,7 +69,8 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+    font-family: $global-font-family;
+    // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
     // font-family: "Times New Roman", Times, serif;
     // font-family: "CMU Serif Roman", "CMU Serif", "Computer Modern", serif;
   }
@@ -81,7 +83,8 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+      font-family: $global-font-family;
+      // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
       // font-family: "Times New Roman", Times, serif;
       // font-family: "CMU Serif Roman", "CMU Serif", "Computer Modern", serif;
       font-size: 14px;
@@ -182,7 +185,8 @@
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  font-family: $global-font-family;
 
   a {
     display: block;
@@ -332,7 +336,8 @@
    ========================================================================== */
 
 .nav__list {
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  font-family: $global-font-family;
+  // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
   font-size: 1.25rem;
 
   ul {
@@ -367,8 +372,8 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  // font-family: $sans-serif-narrow;
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  font-family: $sans-serif-narrow;
+  // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -377,8 +382,8 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  // font-family: $sans-serif-narrow;
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  font-family: $sans-serif-narrow;
+  // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
@@ -391,8 +396,8 @@
    ========================================================================== */
 
 .toc {
-  // font-family: $sans-serif-narrow;
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  font-family: $sans-serif-narrow;
+  // font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
   color: var(--global-text-color-light);
   text-transform: uppercase;
   letter-spacing: 1px;
