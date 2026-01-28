@@ -9,18 +9,18 @@ redirect_from:
 
 <span style="color:#007acc; font-size:20px;">👋 Welcome to my personal website! Stay awhile and take a look around.</span>  
 
-I am a fourth-year year undergraduate student studying Mathematics and Computer Science at **University of Illinois Urbana-Champaign**, expected to graduate in May 2026.
+I am a fourth-year undergraduate student studying Mathematics and Computer Science at **University of Illinois Urbana-Champaign**, expected to graduate in May 2026.
 
 My research focuses on **generative AI**, specifically:
 
-- 2D and 3D visual generation and editing, with an emphasis on structured scene understanding and geometry-aware representations.
-- Robust and reliable generative systems, including analyzing and improving model behavior under uncertainty, distribution shift, and adversarial perturbations.
-- World models that internalize object and relational structure, enabling intentional, controllable, and physically grounded generation.
+- 2D and 3D visual generation and editing, grounded in scene understanding and geometry-aware representations.
+- Robust and reliable generative models, including analyzing and improving model's performance under uncertainty, distribution shift, and adversarial perturbations.
+- World models that internalize object and relational structure, enabling controllable and interpretable generation.
 
 
 <!-- I am also deeply interested in 3D/4D generative vision, focusing on dynamic scene reconstruction and representation learning. I aim to develop geometry-aware world models capable of synthesizing physically grounded, temporally coherent 3D environments. -->
 
-I also work on knowledge mining and LLM reasoning at ULab@UIUC, where I am fortunate to be advised by <a href="https://cs.stanford.edu/people/jiaxuan/" target="_blank">Prof. Jiaxuan You</a>. My work focuses on building dynamic and interpretable knowledge graphs over scientific literature to support structure-aware retrieval, concept-level reasoning, and knowledge organization.
+I also work on knowledge mining and LLM reasoning at ULab@UIUC, where I am fortunate to be advised by <a href="https://cs.stanford.edu/people/jiaxuan/" target="_blank">Prof. Jiaxuan You</a>. My work focuses on building dynamic knowledge graphs over scientific literature to support structure-aware retrieval, concept-level reasoning, and knowledge organization.
 
 I've completed my internship at the <a href="https://www.baai.ac.cn/en/" target="_blank">BAAI (Beijing Academy of Artificial Intelligence)</a> Vision and Multimodal Research Center, where I had the opportunity to engage with cutting-edge research in visual foundation models and multimodal learning.
 
