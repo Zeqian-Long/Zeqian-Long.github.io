@@ -18,6 +18,9 @@ I maintained a 4.0 GPA throughout my undergraduate studies. These are some of th
 
 - **[Machine Learning](https://courses.grainger.illinois.edu/cs446/sp2024/index.html)** – A rigorous introduction to modern ML; challenging and highly rewarding.
 
+- **Some Math classes** <sup>[1](https://lerman.web.illinois.edu/424/s24/424s24hw.html) [2](https://lerman.web.illinois.edu/427/f24/427f24hw.html)</sup>
+
+
 
 
 
